@@ -5,9 +5,9 @@ class Calculator {
     }
 
     clear() {
-        this-currentOperand = ''
-        this-previousOperand = ''
-        this-operation = undefined
+        this-currentOperand == ''
+        this-previousOperand == ''
+        this-operation == undefined
 
     }
 
